@@ -1,4 +1,4 @@
-# Password Generator Starter Code
+# Friendly Parakeet Password Generator
 
 ## Purpose
 A web application that generates random passwords based on your selected criteria. 
